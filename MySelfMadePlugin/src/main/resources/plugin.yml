@@ -1,0 +1,7 @@
+name: MySelfMadePlugin
+version: '${project.version}'
+main: me.segev.myselfmadeplugin.MySelfMadePlugin
+api-version: '1.20'
+commands:
+  getping:
+    description: get your ping
